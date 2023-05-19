@@ -7,3 +7,4 @@ Assigments for the course Machine Learning from Fabio Gonzalez.
   - [ ] Do the same with the posters ds
 - [ ] ConvNext Model
 - [ ] CLIP
+- [ ] Zero Shot classification
